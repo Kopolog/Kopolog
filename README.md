@@ -35,3 +35,9 @@
 
 - 📧 mlp91325@gmail.com
 - 💼 [LinkedIn](https://www.linkedin.com/in/pablo-mora-l%C3%B3pez-333596340/)
+
+
+### 📊 Mis estadísticas
+
+![Pablo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kopolog&show_icons=true&theme=dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kopolog&layout=compact&theme=dark)
