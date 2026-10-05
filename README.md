@@ -6,6 +6,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Pablo_Mora_López-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pablo-mora-l%C3%B3pez-333596340/)
 [![Gmail](https://img.shields.io/badge/Gmail-mlp91325@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mlp91325@gmail.com)
+[![CV](https://img.shields.io/badge/CV-Descargar-512BD4?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](./CV-Pablo-Mora-Lopez.pdf)
 
 </div>
 
